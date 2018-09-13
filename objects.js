@@ -1,7 +1,6 @@
-var occupation = 'artist'
 
 var playlist = {
-  [occupation]: 'song',
+  occupation: 'song',
 }
 
 function updatePlaylist(playlist, artistName, songTitle) {
